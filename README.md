@@ -46,9 +46,8 @@ start index.html  # Windows
 -   **HTML5** -- Content structure\
 -   **CSS3** -- Styling and responsiveness
 
-## 📸 Preview
 
-(Add screenshots or GIFs of the homepage here.)
+
 
 ## 📜 License
 
